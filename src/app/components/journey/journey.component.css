@@ -1,0 +1,76 @@
+.line{ 
+    margin: 2px solid grey;
+    margin-top: 0.6510416666666666vw;
+}
+.cherkez{
+    border: 1px solid black;    
+    height: 12.8229166666666667vw;
+}
+.enjoy{
+    display: flex;
+    flex-direction: row;
+    color: black;
+    font-family: Roboto;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 2.8229166666666667vw;
+    line-height: 2.1419270833333335vw;
+    padding-left: 3.1419270833333335vw;
+    cursor: pointer;
+}
+.about{
+    display: flex;
+    flex-direction: row;
+    color: black;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1.8229166666666667vw;
+    line-height: 2.1419270833333335vw;
+    padding: 1.4419270833333335vw;
+    cursor: pointer;
+}
+.colume{
+    margin-top: 2.9296875vw;
+}
+.sevberd{
+    display: flex;
+    flex-direction: row;
+    width: 19.122917vw;
+    border: 1px solid black;    
+    height: 12.8229166666666667vw;   
+}
+.abouts{
+    display: flex;
+    flex-direction: row;
+    color: black;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1.8229166666666667vw;
+    line-height: 2.1419270833333335vw;
+    padding-left: 9.4419270833333335vw;
+    cursor: pointer;
+}
+.square{
+    width: 19.122917vw;
+    border: 1px solid black;    
+    height: 12.8229166666666667vw;
+}
+.museum{
+    width: 19.122917vw;
+    border: 1px solid black;    
+    height: 12.8229166666666667vw;
+}
+.aboutss{
+    display: flex;
+    flex-direction: row;
+    color: black;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1.8229166666666667vw;
+    line-height: 2.1419270833333335vw;
+    padding-left: 0.1419270833333335vw;
+    cursor: pointer;
+}

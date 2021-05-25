@@ -1,0 +1,64 @@
+.headImg{
+    position: relative;
+    z-index: 1;
+    width: 100%;
+    height: 49.566618vw;
+}
+.relative{
+    color: white;
+    position: relative;
+    z-index: 0;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 4.8229166666666667vw;
+    line-height: 6.1419270833333335vw;
+    /* padding: 22.1419270833333335vw; */
+    cursor: pointer;
+}
+.txt{ 
+    color: white;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1.8229166666666667vw;
+    line-height: 2.1419270833333335vw;
+    padding: 2.1419270833333335vw;
+    cursor: pointer;
+}
+
+.bgImage{
+    background-image: url('/assets/head.jpg');
+    background-size: cover;
+    height: 44.566618vw;
+
+}
+
+@media screen and (max-width: 992px){
+    .text{
+        top: 2.2552083333333335vw;
+        cursor: pointer;
+        
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .text{ 
+        top: -0.744792vw;
+        cursor: pointer;
+
+    }
+}
+
+@media screen and (max-width: 480px ) and (min-width: 400px)  {
+    .text {
+        top: -3.744792vw;
+        cursor: pointer;
+    }
+}
+@media screen and (max-width: 400px ) and (min-width: 320px) {
+    .text {
+        top: -5.744792vw;
+        cursor: pointer;
+    }
+}

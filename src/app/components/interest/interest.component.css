@@ -1,0 +1,40 @@
+.txt{ 
+    color: black;
+    font-family: Roboto;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 1.9229166666666667vw;
+    line-height: 2.1419270833333335vw;
+    padding: 4.1419270833333335vw;
+    cursor: pointer;
+}
+.txt1{
+    color: black;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1.5229166666666667vw;
+    line-height: 2.1419270833333335vw;
+    padding: 4.94419270833333335vw;
+    cursor: pointer;
+}
+.txt3{
+    color: black;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1.5229166666666667vw;
+    line-height: 2.1419270833333335vw;
+    padding: 5.24419270833333335vw;
+    cursor: pointer;
+}
+.txt4{
+    color: black;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1.5229166666666667vw;
+    line-height: 2.1419270833333335vw;
+    padding: 6.344419270833333335vw;
+    cursor: pointer;
+}

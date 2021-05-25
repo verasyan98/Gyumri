@@ -1,0 +1,55 @@
+.cnt {
+  background-color: black;
+  margin-top: 2.302083vw;
+}
+.txtcenter{
+    margin-top: 1.302083vw;
+}
+.text {
+  color: white;
+  font-family: Roboto;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 2.5229166666666667vw;
+  line-height: 2.1419270833333335vw;
+  padding: 2.1419270833333335vw;
+  cursor: pointer;
+}
+.contact{
+  color: white;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 1.5229166666666667vw;
+  line-height: 2.1419270833333335vw;
+  padding: 2.1419270833333335vw;
+}
+.contact-us{
+    padding: 0.1419270833333335vw;
+    display: flex;
+    flex-direction: row;
+}
+.name{
+    width: 12.416666666666666vw;
+    background-color: darkgray;
+    border: 0px darkgray;
+    outline: none;
+}
+.email{
+    width: 12.416666666666666vw;
+    margin-left: 2.9296875vw;
+    background-color: darkgray;
+    border: 0px darkgray;
+    outline: none;
+}
+.btn{
+    margin-top: 1.4296875vw;
+    width: 27.816666666666666vw;
+    color: white;
+    background-color: red;
+    border-radius: 1.3020833333333333vw;
+}
+.streetImg{
+    width: 25.122917vw;
+    height: 15.8229166666666667vw; 
+}
